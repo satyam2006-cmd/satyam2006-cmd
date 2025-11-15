@@ -2,6 +2,7 @@
 <h2 style="color: #0e75b6;">👋 Hey, I'm Satyam</h2>
 
 ### Data Science Student | ML Enthusiast | Developer
+</div>
 
 <div align="center">
 
