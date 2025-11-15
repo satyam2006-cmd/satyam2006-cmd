@@ -1,12 +1,8 @@
 <div align="center">
-<h2 style="color: #0e75b6;">👋 Hey, I'm Satyam</h2>
-
-### Data Science Student | ML Enthusiast | Developer
+<img style="border:#7D5F45;" src="https://github.com/satyam2006-cmd/satyam2006-cmd/blob/main/github-header-banner.png"></img>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+Developer;UI%2FUX+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=satyam2006-cmd&style=for-the-badge&color=0e75b6)](https://github.com/satyam2006-cmd)
 <a href="https://github.com/satyam2006-cmd">
@@ -17,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 ```typescript
 class Developer {
@@ -50,7 +46,7 @@ const satyam = new Developer();
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <div align="center">
 
@@ -94,7 +90,7 @@ const satyam = new Developer();
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   
@@ -107,7 +103,7 @@ const satyam = new Developer();
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -117,7 +113,7 @@ const satyam = new Developer();
 
 ---
 
-## 🐍 Contributions
+### 🐍 Contributions
 
 <div align="center">
 
@@ -127,7 +123,7 @@ const satyam = new Developer();
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 <div align="center">
 
@@ -145,7 +141,7 @@ const satyam = new Developer();
 
 <div align="center">
 
-## ✨ Quote of the Day
+### ✨ Quote of the Day
 
 <!-- Custom Quotes API: https://quotes-api-ruddy.vercel.app -->
 
