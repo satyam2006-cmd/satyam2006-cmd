@@ -1,13 +1,16 @@
-# 👋 Hey, I'm Satyam
+<div align="center">
+<h2 style="color: #0e75b6;">👋 Hey, I'm Satyam</h2>
 
 ### Data Science Student | ML Enthusiast | Developer
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Student+📊;Python+Developer+🐍;UI%2FUX+Designer+🎨;Always+Learning+New+Tech+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+Developer;UI%2FUX+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/satyam2006-cmd?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/satyam2006-cmd)
 [![Profile Views](https://komarev.com/ghpvc/?username=satyam2006-cmd&style=for-the-badge&color=0e75b6)](https://github.com/satyam2006-cmd)
+<a href="https://github.com/satyam2006-cmd">
+<img src="https://img.shields.io/github/followers/satyam2006-cmd?style=for-the-badge&cacheSeconds=1&logo=github&color=0e75b6" />
+</a>
 
 </div>
 
@@ -46,11 +49,11 @@ const satyam = new Developer();
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-## 🔤 Languages
+### 🔤 Languages
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -59,7 +62,7 @@ const satyam = new Developer();
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-## ⚙️ Backend / Framework
+### ⚙️ Backend / Framework
 
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -67,19 +70,19 @@ const satyam = new Developer();
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-## 🎨 UI/UX Tools
+### 🎨 UI/UX Tools
 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
-## 💻 Databases
+### 💻 Databases
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,20 +93,20 @@ const satyam = new Developer();
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam2006-cmd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=FAF9F6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam2006-cmd&layout=compact&hide_border=true&bg_color=0d1117&title_color=A52A2A&text_color=FAF9F6"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam2006-cmd&hide_border=true&background=0d1117&ring=A52A2A&fire=A52A2A&currStreakLabel=FAF9F6&currStreakNum=FAF9F6&sideLabels=FAF9F6&sideNums=FAF9F6&dates=FAF9F6" alt="GitHub Streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam2006-cmd&hide_border=true&area=true&bg_color=0d1117&color=FAF9F6&line=654321&point=FAF9F6" alt="Contribution Graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam2006-cmd&show_icons=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=FAF9F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam2006-cmd&layout=compact&bg_color=0d1117&title_color=A52A2A&text_color=FAF9F6"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam2006-cmd&background=0d1117&ring=A52A2A&fire=A52A2A&currStreakLabel=FAF9F6&currStreakNum=FAF9F6&sideLabels=FAF9F6&sideNums=FAF9F6&dates=FAF9F6" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam2006-cmd&area=true&bg_color=0d1117&color=FAF9F6&line=654321&point=FAF9F6" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -113,25 +116,26 @@ const satyam = new Developer();
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/dist/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/github-contribution-grid-snake.svg" />
 
 </div>
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
 ### Socials:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-bhagat2006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/satyam_bhagat___/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-bhagat2006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/satyam_bhagat___/)
 
 ### Coding Profiles:
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam2006-cmd) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/satyambhagat/) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/satyambhagat) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/satyambhagwypf/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/user/satyam2006-cmd)
 
 </div>
@@ -146,8 +150,6 @@ const satyam = new Developer();
 
 ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
 
-_Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 5000+ quotes!_
-
 </div>
 
 ---
@@ -156,4 +158,5 @@ _Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 500
 
 Made with 💙 by **Satyam (satyam2006-cmd)**
 
+</div>
 </div>
