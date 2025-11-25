@@ -94,10 +94,11 @@ const satyam = new Developer();
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam2006-cmd&show_icons=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=FAF9F6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam2006-cmd&layout=compact&bg_color=0d1117&title_color=A52A2A&text_color=FAF9F6"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam2006-cmd&background=0d1117&ring=A52A2A&fire=A52A2A&currStreakLabel=FAF9F6&currStreakNum=FAF9F6&sideLabels=FAF9F6&sideNums=FAF9F6&dates=FAF9F6" alt="GitHub Streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam2006-cmd&area=true&bg_color=0d1117&color=FAF9F6&line=654321&point=FAF9F6" alt="Contribution Graph"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyam2006-cmd&show_icons=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=FAF9F6" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyam2006-cmd&layout=compact&bg_color=0d1117&title_color=A52A2A&text_color=FAF9F6" />
+<img src="https://streak-stats.demolab.com?user=satyam2006-cmd&theme=dark&hide_border=true&background=0d1117&ring=A52A2A&fire=A52A2A&currStreakLabel=FAF9F6&currStreakNum=FAF9F6&dates=FAF9F6.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam2006-cmd&theme=react-dark&area=true&hide_border=true&color=FAF9F6&line=654321&point=FAF9F6" />
+
 
 </div>
 
