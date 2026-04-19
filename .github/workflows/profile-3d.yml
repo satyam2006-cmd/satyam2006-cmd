@@ -18,7 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: satyam2006-cmd
-          SETTING_JSON: ./profile-3d-settings.json   # 👈 custom theme
+          SETTING_JSON: profile-3d-settings.json
 
       - name: Commit & Push
         run: |
