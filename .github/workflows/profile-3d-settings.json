@@ -1,0 +1,8 @@
+{
+  "type": "night",
+  "backgroundColor": "#0d1117",
+  "color": "#013220",
+  "lineColor": "#00ff9c",
+  "blockMargin": 4,
+  "blockSize": 8
+}
