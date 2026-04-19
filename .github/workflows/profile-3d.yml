@@ -13,10 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: satyam2006-cmd
+          SETTING_JSON: ./profile-3d-settings.json   # 👈 custom theme
 
       - name: Commit & Push
         run: |
