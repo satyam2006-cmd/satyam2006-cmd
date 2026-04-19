@@ -11,7 +11,7 @@
 
 </div>
 
-### About Me
+### About Me :
 
 ```typescript
 class Developer {
@@ -42,13 +42,14 @@ class Developer {
 const satyam = new Developer();
 ```
 
-### 🧰 Tech Stack
+### Tech Stack :
 
-<table>
+<table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="60%" valign="top">
 
-### Languages
+<td width="60%" valign="top" style="border:none;">
+
+### Languages :
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -56,24 +57,24 @@ const satyam = new Developer();
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Backend / Framework
+### Backend / Framework :
 <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-### UI/UX Tools
+### UI/UX Tools :
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
-### Databases
+### Databases :
 <img src="https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### Tools
+### Tools :
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -81,26 +82,27 @@ const satyam = new Developer();
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" style="border:none;">
 
 <img src="https://i.pinimg.com/originals/7b/c9/79/7bc97918ccb4f3f4d3ce7db15848733c.gif" width="320"/>
 
 </td>
+
 </tr>
 </table>
 
 ## Contributions:
 <div align="center"> <img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/profile-3d-contrib/profile-night-green.svg" /> </div>
 
-### 🔗 Connect With Me
+### Connect With Me :
 
 <div align="center">
 
-### Socials:
+### Socials :
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-bhagat2006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/satyam_bhagat___/)
 
-### Coding Profiles:
+### Coding Profiles :
 
 <div align="center">
 
