@@ -11,9 +11,7 @@
 
 </div>
 
----
-
-### 🚀 About Me
+### About Me
 
 ```typescript
 class Developer {
@@ -44,13 +42,11 @@ class Developer {
 const satyam = new Developer();
 ```
 
----
-
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
-### 🔤 Languages
+### Languages
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -59,7 +55,7 @@ const satyam = new Developer();
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-### ⚙️ Backend / Framework
+### Backend / Framework
 
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -67,19 +63,19 @@ const satyam = new Developer();
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-### 🎨 UI/UX Tools
+### UI/UX Tools
 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
-### 💻 Databases
+### Databases
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### 🛠️ Tools
+### Tools
 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -88,41 +84,8 @@ const satyam = new Developer();
 
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyam2006-cmd&show_icons=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=FAF9F6" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyam2006-cmd&layout=compact&bg_color=0d1117&title_color=A52A2A&text_color=FAF9F6" />
-<img src="https://streak-stats.demolab.com?user=satyam2006-cmd&theme=dark&hide_border=true&background=0d1117&ring=A52A2A&fire=A52A2A&currStreakLabel=FAF9F6&currStreakNum=FAF9F6&dates=FAF9F6.svg" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam2006-cmd&theme=react-dark&area=true&hide_border=true&color=FAF9F6&line=654321&point=FAF9F6" />
-
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satyam2006-cmd&theme=dracula&margin-w=10&no-bg=true&no-frame=true"/>
-
-</div>
-
----
-
-### 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/github-contribution-grid-snake.svg" />
-
-</div>
-
----
+## Contributions:
+<div align="center"> <img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/profile-3d-contrib/profile-night-green.svg" /> </div>
 
 ### 🔗 Connect With Me
 
@@ -144,8 +107,6 @@ const satyam = new Developer();
 
 </div>
 
----
-
 <div align="center">
 
 ### ✨ Quote of the Day
@@ -156,7 +117,6 @@ const satyam = new Developer();
 
 </div>
 
----
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 #
