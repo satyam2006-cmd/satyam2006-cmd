@@ -19,14 +19,23 @@ class Developer {
   role: string = "Data Science Student";
   location: string = "India";
 
-  skills = {
-    languages: ["Python", "C", "C++", "Java"],
-    frameworks: ["Flask"],
-    designTools: ["Figma", "Framer", "Wix"],
-    interests: ["Machine Learning", "Data Analysis", "Web Development"],
+  techStack = {
+    languages: ["Python", "C", "C++", "Java", "HTML", "CSS"],
+    frameworks: ["Flask","Fastapi"],
+    libraries: ["OpenCV", "PyTorch", "TensorFlow", "Scikit-learn"],
+    databases: ["MySQL", "SQLite", "PostgreSQL"],
+    tools: ["Git", "GitHub", "Jupyter", "Google Colab","DBeaver"],
+    designTools: ["Figma", "Framer", "Wix"]
   };
 
+  interests: string[] = [
+    "Machine Learning",
+    "Data Analysis",
+    "Web Development"
+  ];
+
   currentlyLearning: string = "Machine Learning & Deep Learning";
+
   funFact: string = "Half programmer, half designer 😎";
 
   getGoals(): string[] {
@@ -34,62 +43,13 @@ class Developer {
       "Become a Data Scientist",
       "Master Machine Learning Models",
       "Build real-world projects",
-      "Grow as a full-stack developer",
+      "Grow as a full-stack developer"
     ];
   }
 }
 
 const satyam = new Developer();
 ```
-
-### Tech Stack :
-
-<table style="border:none; border-collapse:collapse;">
-<tr>
-
-<td width="60%" valign="top" style="border:none;">
-
-### Languages :
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-### Backend / Framework :
-<img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-### UI/UX Tools :
-<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-<img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
-
-### Databases :
-<img src="https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### Tools :
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-</td>
-
-<td width="40%" align="center" style="border:none;">
-
-<img src="https://i.pinimg.com/originals/7b/c9/79/7bc97918ccb4f3f4d3ce7db15848733c.gif" width="320"/>
-
-</td>
-
-</tr>
-</table>
 
 ## Contributions:
 <div align="center"> <img src="https://raw.githubusercontent.com/satyam2006-cmd/satyam2006-cmd/main/profile-3d-contrib/profile-night-green.svg" /> </div>
