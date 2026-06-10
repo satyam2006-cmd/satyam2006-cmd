@@ -10,8 +10,7 @@
 
 <a href="https://github.com/satyam2006-cmd?tab=followers">
   <img src="https://img.shields.io/github/followers/satyam2006-cmd?style=for-the-badge&logo=github&label=Followers" />
-</a>
-
+</a> 
 </div>
 
 ### About Me :
