@@ -4,13 +4,15 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=satyam2006-cmd&style=for-the-badge&color=0e75b6)](https://github.com/satyam2006-cmd)
 <a href="https://github.com/satyam2006-cmd">
-<img src="https://img.shields.io/github/followers/satyam2006-cmd?style=for-the-badge&cacheSeconds=1&logo=github&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=satyam2006-cmd&style=for-the-badge&color=0e75b6" />
+</a>
+
+<a href="https://github.com/satyam2006-cmd?tab=followers">
+  <img src="https://img.shields.io/github/followers/satyam2006-cmd?style=for-the-badge&logo=github&label=Followers" />
 </a>
 
 </div>
-
 ### About Me :
 
 ```typescript
